@@ -3,6 +3,7 @@ Creator: JP Barela / Zeb Girouard
 Market: Denver
 -->
 
+<!--WDI6 3:18 -->
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
 # Building Models
@@ -65,6 +66,8 @@ It's also a good idea to review the code and see what dependencies are included.
 <details>
 `express`, `sequelize`, `pg`, `pg-hstore`, `body-parser`
 </details>
+
+<!--WDI6 3:40  -->
 
 #### Sprint 1 Songs and Artists 
 Our first goal is to add a list of songs to the artist detail page and add the artist name
@@ -153,6 +156,8 @@ Finally, we need to add an unordered list to ``artist-show/artist-show.component
 ```
 
 Run `db/dbSetup.js` again to accommodate the changes we made to our models.  Then seed your database.  Finally, restart your server, and let's review our work!
+
+<!--WDI6 3:54 turning over to devs and walking out -->
 
 #### Sprint 2 Artists and Managers
 
